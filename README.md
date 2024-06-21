@@ -1,7 +1,7 @@
 # stance-discourse-INTERSPEECH24
 Source code for "Investigating the Influence of Stance-Taking on Conversational Timing of Task-Oriented Speech," Ng et al. 2024, presented at INTERSPEECH 2024
 
-This code assumes access to the [ATAROS dataset](https://depts.washington.edu/phonlab/projects/ataros.php). This dataset hosted by the University of Washington can be accessed by emailing (ataros@uw.edu](mailto:ataros@uw.edu). It assumes the general file structure of ATAROS as it is originally downloaded.
+This code assumes access to the [ATAROS dataset](https://depts.washington.edu/phonlab/projects/ataros.php). This dataset hosted by the University of Washington can be accessed by emailing [levow@uw.edu](mailto:levow@uw.edu) (note that the email ataros@uw.edu mentioned on the web site is no longer maintained). It assumes the general file structure of ATAROS as it is originally downloaded.
 
 Questions about the code can be sent to [sbng@uw.edu](mailto:sbng@uw.edu).
 

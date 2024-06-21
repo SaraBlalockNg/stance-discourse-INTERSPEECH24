@@ -14,7 +14,7 @@ from matplotlib.ticker import MaxNLocator
 from pandas.errors import SettingWithCopyWarning
 from scipy import stats
 from scipy.stats import norm
-from utils import *
+from utils import load_stance_intervals, load_textgrid_intervals
 
 
 # these are the sessions in ATAROS that we assume will prcess correctly
